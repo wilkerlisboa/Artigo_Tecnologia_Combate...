@@ -12,7 +12,7 @@ A abordagem técnica para alcançar esse objetivo envolve a aplicação da tecno
 
 Ao combinar a sensibilidade ambiental com a potência da tecnologia, a proposta não apenas almeja enfrentar as queimadas de maneira proativa, mas também estabelecer um precedente para a integração eficiente de soluções tecnológicas na gestão de desastres naturais. Este artigo, fundamentado em referências pré-existentes e aprimorado por ideias inovadoras, representa um passo crucial na direção de um futuro mais resiliente, sustentável e seguro para as comunidades afetadas.
 
-## 2 - Doenças Respiratórias Causadas por Queimadas e Incêndios
+### 2 - Doenças Respiratórias Causadas por Queimadas e Incêndios
 As queimadas e incêndios, além de representarem uma ameaça direta à biodiversidade e ao meio ambiente, exercem uma influência significativa na saúde da população urbana. Esses eventos, muitas vezes desencadeados por atividades humanas ou condições climáticas adversas, liberam substâncias tóxicas e partículas finas no ar, gerando sérias consequências para a saúde pública. Abaixo, exploramos algumas das doenças associadas a esses eventos e os impactos que têm sobre a vida urbana.
 
 * **2.1 - Exacerbação de Asma**
@@ -180,7 +180,7 @@ Aqui estão alguns trechos-chave do código de detecção de fogo utilizando Ope
 ## 8 - Conclusão
 Este projeto representa uma iniciativa abrangente e inovadora no combate a queimadas e incêndios, integrando tecnologias avançadas para monitoramento, detecção automatizada e intervenção eficiente. Ao unir o poder da Visão Computacional, Redes Neurais, e a comunicação com drones através do Dronekit, buscamos criar uma solução holística que vai além da simples identificação de focos de incêndio.
 
-A abordagem técnica, centrada no uso do OpenCV e YOLO, proporciona uma detecção precisa e ágil de padrões característicos de chamas e fumaça, permitindo uma resposta rápida diante de situações críticas. A observação dos testes revelou uma notável taxa de acerto de 95%, consolidando a eficácia do método implementado.
+A abordagem técnica, centrada no uso do OpenCV e YOLO, proporciona uma detecção precisa e ágil de padrões característicos de chamas e fumaça, permitindo uma resposta rápida diante de situações críticas. A observação dos testes revelou uma notável taxa de acerto de 97%, consolidando a eficácia do método implementado.
 
 A integração de Redes Neurais amplia a capacidade de identificação de padrões complexos, enquanto a comunicação com drones através do Dronekit estabelece um canal direto para ações de extinção e monitoramento autônomo. Esse enfoque não apenas otimiza a resposta a incidentes, mas também reduz a carga sobre os órgãos de segurança pública.
 
