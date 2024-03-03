@@ -12,7 +12,7 @@ A abordagem técnica para alcançar esse objetivo envolve a aplicação da tecno
 
 Ao combinar a sensibilidade ambiental com a potência da tecnologia, a proposta não apenas almeja enfrentar as queimadas de maneira proativa, mas também estabelecer um precedente para a integração eficiente de soluções tecnológicas na gestão de desastres naturais. Este artigo, fundamentado em referências pré-existentes e aprimorado por ideias inovadoras, representa um passo crucial na direção de um futuro mais resiliente, sustentável e seguro para as comunidades afetadas.
 
-### 2 - Doenças Respiratórias Causadas por Queimadas e Incêndios
+## 2 - Doenças Respiratórias Causadas por Queimadas e Incêndios
 As queimadas e incêndios, além de representarem uma ameaça direta à biodiversidade e ao meio ambiente, exercem uma influência significativa na saúde da população urbana. Esses eventos, muitas vezes desencadeados por atividades humanas ou condições climáticas adversas, liberam substâncias tóxicas e partículas finas no ar, gerando sérias consequências para a saúde pública. Abaixo, exploramos algumas das doenças associadas a esses eventos e os impactos que têm sobre a vida urbana.
 
 * **2.1 - Exacerbação de Asma**
