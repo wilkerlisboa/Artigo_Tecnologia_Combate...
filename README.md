@@ -1,5 +1,7 @@
 # Tecnologia - Combate a Queimadas e Incêndios
+**Autor:** Wilker Lisboa
 
+* **Afiliação:** Centro Educacional Anhanguera
 ## Resumo
 O projeto visa combater queimadas através da aplicação da tecnologia como OpenCV, YOLO um conjunto de bibliotecas de visão computacional e processamento de imagem. A abordagem envolve a detecção automatizada de focos de incêndio em imagens ou vídeos, seguida por um mecanismo para acionar a extinção do fogo. O sistema utiliza algoritmos de visão computacional para identificar padrões característicos de chamas e fumaça.
 
