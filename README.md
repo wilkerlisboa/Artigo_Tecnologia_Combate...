@@ -196,6 +196,4 @@ Por fim, a Conclusão reitera a importância de abordagens inovadoras na interse
 ## referências
 para sabar mais sobre as referências estão no PDF do artigo [Tecnologia - Combate a Queimadas e Incêndios](https://github.com/wilkerlisboa/article/blob/main/Tecnologia%20-%20Combate%20a%20Queimadas%20e%20Inc%C3%AAndios.pdf). Disponivel para download (apenas clicar no link).
 
-## Licença
-Indique a licença do seu artigo. Por exemplo, [Licença MIT](https://opensource.org/licenses/MIT).
 
