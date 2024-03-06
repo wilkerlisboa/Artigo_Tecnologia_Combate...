@@ -1,5 +1,5 @@
 # Tecnologia - Combate a Queimadas e Incêndios
-**Autor:** Wilker Lisboa
+**Autor:** Wilker Lisboa Soares da Silva
 
 ## Resumo
 O artigo visa combater queimadas através de aplicações de tecnologias como OpenCV, YOLO, Dronekit e Redes Neurais, um conjunto de bibliotecas de visão computacional e processamento de imagem. A abordagem envolve a detecção automatizada de focos de incêndios e queimadas em imagens  ou vídeos, seguida por um mecanismo para acionar a extinção do fogo. A inspiração para esse artigo surgiu por um alto índice de fumaça nas regiões norte do Brasil.
