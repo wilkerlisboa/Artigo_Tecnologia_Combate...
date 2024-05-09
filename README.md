@@ -120,4 +120,4 @@ Se o estado selecionado tiver dados, a função pergunte ao usuário qual classi
 
 Uma nova coluna chamada ‘classificacao_risco’ é adicionanda ao DataFrame ‘dados’, com base nos valores da coluna frp (Fire Radiative Power ou Potência Radiativa do Fogo). Essa coluna é categorizada em diferentes níveis de risco: Baixo, Médio, Alto e Emergência.
 
-Para ver o codigo na pratica basta acessar o link do arquivo aqui no github "codigo".
+Para ver o codigo na pratica basta acessar o link do arquivo aqui no github "<a href="https://github.com/wilkerlisboa/Artigo_Tecnologia_Combate.../blob/main/beta.py">codigo</a>".
