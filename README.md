@@ -1,4 +1,4 @@
-
+você leitor está nessa pagina e porque veio do artigo, aqui apresentaremos os métodos de preparação do ambiente de desenvolvimento, passo a passo logo abaixo.
 # 1.	Instalação da Linguagem Python no Windows:
 A instalação da linguagem Python para Windows acaba sendo uma forma simples, siga os passos a seguir:
 
